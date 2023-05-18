@@ -9,6 +9,7 @@ Display every things in website
 ### Step 2:
 Give the correct input
 ## Code:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -173,7 +174,7 @@ The uses of Washerman's Lake in Ariyalur District are
 </p>
 </body>
 </html>
-
+```
 ## Output:
 ![Screenshot (824)](https://github.com/VARSHINI22009118/places-around-me/assets/119401150/50d5bb8a-1ee5-41cb-9249-a54c4cb37e3e)
 ![Screenshot (825)](https://github.com/VARSHINI22009118/places-around-me/assets/119401150/54075579-c03f-4428-844f-c67aaa126aa9)
